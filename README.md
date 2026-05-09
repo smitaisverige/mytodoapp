@@ -5,11 +5,17 @@ This app allows users to add and delete daily tasks with automatic local storage
 
 🚀 Features
 ✅ Add new tasks
+
 🗑️ Delete existing tasks
+
 💾 Saves tasks using Local Storage
+
 📱 Responsive design for mobile and desktop
+
 🎨 Modern UI with Material UI components
+
 🌌 Custom background and styled layout
+
 🛠️ Tech Stack
 React
 TypeScript
