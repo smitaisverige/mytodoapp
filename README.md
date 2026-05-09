@@ -3,7 +3,8 @@
 A modern and responsive To-Do application built with React, TypeScript, and Material UI.
 This app allows users to add and delete daily tasks with automatic local storage persistence.
 
-🚀 Features
+🚀 Features:
+
 ✅ Add new tasks
 
 🗑️ Delete existing tasks
@@ -16,9 +17,14 @@ This app allows users to add and delete daily tasks with automatic local storage
 
 🌌 Custom background and styled layout
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
+
 React
+
 TypeScript
+
 Material UI (MUI)
+
 Vite (assumed from project structure)
+
 Local Storage API
